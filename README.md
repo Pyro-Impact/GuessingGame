@@ -2,6 +2,9 @@
 Edit line 1 of GuessingGame.py and implement the restart_function custom module in your own directory.
 https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
 Got the idea here ^
+
+Note: I do know that the for loop is unecessary and takes up more space, but I included it anyway in order to practice for loops and logic.
+
 Features:
 1. modules
 2. nested loops
