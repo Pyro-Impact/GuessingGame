@@ -9,4 +9,7 @@ Features:
 4. user input
 5. try/except
 6. function
+7. for loops
+8. program can tell if number not in guessing range
+
 It's a guessing game.
