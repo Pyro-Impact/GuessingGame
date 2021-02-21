@@ -9,3 +9,15 @@ def confirm_restart():
             print("Invalid input. Please type yes or no.")
             continue
     return restart_confirm1
+
+# How to use:
+
+# while True:
+    # CODE IN WHILE LOOP HERE
+#
+#     if confirm_restart() == "yes":
+#         continue
+#     else:
+#         break
+
+# ^^^Use the code above to make the restart function work!^^^
